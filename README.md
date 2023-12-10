@@ -27,15 +27,27 @@ There's no need for downloads or installations. To use Hello Random Color, simpl
 
 ## Getting Started
 
-1. If you don't have the Flutter SDK installed, please visit the official [Flutter](https://docs.flutter.dev/get-started/install) website.
+### Get the source code
 
-2. Fetch the latest source code from the main branch.
+To get the source code of "Hello Random Color", you have two options:
 
-``` 
+#### Clone the repository
+
+```bash 
 git clone https://github.com/eduhoratiu/hello_random_color.git
 ```
 
-3. Run the app with Visual Studio Code or Android Studio. Or the command line:
+This command creates a local copy of the repository on your machine. Use this if you simply want to study or run the code.
+
+#### Fork the repository
+
+Click on the "Fork" button at the top right. This creates a copy of the repository under your GitHub account, which you can then clone with the `git clone` command. Forking is useful if you plan to make changes to the project and potentially contribute back with a pull request.
+
+### Start developing
+
+1. If you don't have the Flutter SDK installed, please visit the official [Flutter](https://docs.flutter.dev/get-started/install) website.
+
+2. Run the app with Visual Studio Code or Android Studio. Or the command line:
 
 ``` 
 flutter pub get
