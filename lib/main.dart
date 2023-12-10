@@ -12,34 +12,45 @@ void main() {
   runApp(const HelloRandomColorApp());
 }
 
-/// The root widget of the app, a [MaterialApp] that defines the app themes and the home screen.
+/// The root widget of the app.
+///
+/// This is a stateless widget that uses the convenience [MaterialApp] widget to help us easily
+/// build a Material Design app.
 class HelloRandomColorApp extends StatelessWidget {
   /// Creates a new Hello Random Color app.
   const HelloRandomColorApp({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
+    // Return the root widget of the app, a [MaterialApp]
     return MaterialApp(
+      // Hide the debug banner (this is an opionated developer choice)
       debugShowCheckedModeBanner: false,
+
+      // The title of the app
       title: strings.appName,
 
       // The light theme of the app (default)
+      // Use a color scheme based on white so it goes well with the random colors
       theme: ThemeData(
         brightness: Brightness.light,
-        colorScheme: ColorScheme.light(
-          primary: const ColorScheme.light().surface,
-          onPrimary: const ColorScheme.light().onSurface,
-          secondary: const ColorScheme.light().surface,
-          onSecondary: const ColorScheme.light().onSurface,
+        colorScheme: const ColorScheme.light(
+          primary: Colors.white,
+          onPrimary: Colors.black,
+          secondary: Colors.white,
+          onSecondary: Colors.black,
         ),
       ),
 
       // The dark theme of the app
+      // Use a color scheme based on black so it goes well with the random colors
       darkTheme: ThemeData(
         brightness: Brightness.dark,
-        colorScheme: ColorScheme.dark(
-          secondary: const ColorScheme.dark().surface,
-          onSecondary: const ColorScheme.dark().onSurface,
+        colorScheme: const ColorScheme.dark(
+          primary: Colors.black,
+          onPrimary: Colors.white,
+          secondary: Colors.black,
+          onSecondary: Colors.white,
         ),
       ),
 
