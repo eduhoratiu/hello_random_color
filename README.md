@@ -13,8 +13,7 @@ The app's functionality revolves around displaying a randomly generated color on
 
 This application serves as a practical example for those starting their journey in mobile app development, providing a hands-on experience with Flutter's fundamental features.
 
-![iPhone SE screenshot](docs/images/hello-random-color-screenshot-iphone-se.png)
-![Windows Chrome screenshot](docs/images/hello-random-color-screenshot-windows-chrome.png)
+<img align=center src="docs/images/hello-random-color-screenshot-iphone-se.png" width="20%" hspace="10" alt="iPhone SE screenshot" /> <img align=center src="docs/images/hello-random-color-screenshot-windows-chrome.png" width="60%" alt="Windows Chrome screenshot" /> 
 
 ## Hello World
 
