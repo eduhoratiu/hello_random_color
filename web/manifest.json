@@ -1,6 +1,6 @@
 {
-    "name": "hello_random_color",
-    "short_name": "hello_random_color",
+    "name": "Hello Random Color",
+    "short_name": "Hello Random Color",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
