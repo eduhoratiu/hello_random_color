@@ -13,11 +13,14 @@ The app's functionality revolves around displaying a randomly generated color on
 
 This application serves as a practical example for those starting their journey in mobile app development, providing a hands-on experience with Flutter's fundamental features.
 
+![iPhone SE screenshot](docs/images/hello-random-color-screenshot-iphone-se.png)
+![Windows Chrome screenshot](docs/images/hello-random-color-screenshot-windows-chrome.png)
+
 ## Hello World
 
 "Hello World" programs hold a special place in the learning curve of any new programming language or platform. They represent the most basic form of a complete program, offering a simple way for beginners to get started with coding. These programs typically display a basic message, like "Hello, World!", to demonstrate the syntax and basic functionality of the language.
 
-"Hello Random Color" builds upon this foundational concept by not only displaying a simple message but also by introducing interactivity and basic state management in Flutter. While retaining the simplicity of a "Hello World" program, it adds an element of dynamic content – the random color display. This approach makes the app a good stepping stone for beginners in Flutter, as it bridges the gap between basic syntax understanding and practical application in a real-world scenario.
+"Hello Random Color" builds upon this foundational concept by not only displaying a simple message but also by introducing interactivity and basic state management in Flutter. While retaining the simplicity of a "Hello World" program, it adds an element of dynamic content - the random color display. This approach makes the app a good stepping stone for beginners in Flutter, as it bridges the gap between basic syntax understanding and practical application in a real-world scenario.
 
 ## Running the App
 
