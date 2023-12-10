@@ -21,11 +21,11 @@ This application serves as a practical example for those starting their journey 
 
 "Hello Random Color" builds upon this foundational concept by not only displaying a simple message but also by introducing interactivity and basic state management in Flutter. While retaining the simplicity of a "Hello World" program, it adds an element of dynamic content - the random color display. This approach makes the app a good stepping stone for beginners in Flutter, as it bridges the gap between basic syntax understanding and practical application in a real-world scenario.
 
-## Running the App
+## Running the app
 
 There's no need for downloads or installations. To use Hello Random Color, simply visit https://hellorandomcolor.eduhoratiu.com/ on any device with a web browser. It's compatible with all platforms, including Android, ChromeOS, iOS, Linux, macOS, and Windows.
 
-## Getting Started
+## Getting started
 
 ### Get the source code
 
@@ -43,7 +43,7 @@ This command creates a local copy of the repository on your machine. Use this if
 
 Click on the "Fork" button at the top right. This creates a copy of the repository under your GitHub account, which you can then clone with the `git clone` command. Forking is useful if you plan to make changes to the project and potentially contribute back with a pull request.
 
-### Start developing
+### Run the code
 
 1. If you don't have the Flutter SDK installed, please visit the official [Flutter](https://docs.flutter.dev/get-started/install) website.
 
@@ -53,6 +53,10 @@ Click on the "Fork" button at the top right. This creates a copy of the reposito
 flutter pub get
 flutter run
 ```
+
+### Understand the code
+
+Read the [code-explained.md](docs/code-explained.md) document (under construction).
 
 ## Built With
 
