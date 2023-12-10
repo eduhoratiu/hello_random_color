@@ -11,3 +11,39 @@ This application serves as a practical example for those starting their journey 
 "Hello World" programs hold a special place in the learning curve of any new programming language or platform. They represent the most basic form of a complete program, offering a simple way for beginners to get started with coding. These programs typically display a basic message, like "Hello, World!", to demonstrate the syntax and basic functionality of the language.
 
 "Hello Random Color" builds upon this foundational concept by not only displaying a simple message but also by introducing interactivity and basic state management in Flutter. While retaining the simplicity of a "Hello World" program, it adds an element of dynamic content – the random color display. This approach makes the app a good stepping stone for beginners in Flutter, as it bridges the gap between basic syntax understanding and practical application in a real-world scenario.
+
+## Running the App
+
+There's no need for downloads or installations. To use Hello Random Color, simply visit https://hellorandomcolor.eduhoratiu.com/ on any device with a web browser. It's compatible with all platforms, including Android, ChromeOS, iOS, Linux, macOS, and Windows.
+
+## Getting Started
+
+1. If you don't have the Flutter SDK installed, please visit the official [Flutter](https://docs.flutter.dev/get-started/install) website.
+
+2. Fetch the latest source code from the main branch.
+
+``` 
+git clone https://github.com/eduhoratiu/hello_random_color.git
+```
+
+3. Run the app with Visual Studio Code or Android Studio. Or the command line:
+
+``` 
+flutter pub get
+flutter run
+```
+
+## Built With
+
+- [Flutter](https://flutter.dev/) - Build apps for any screen.
+- [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
+- [url_launcher](https://pub.dev/packages/url_launcher) - A Flutter plugin for launching a URL.
+- [GitHub Pages](https://pages.github.com/) - Websites for you and your projects, hosted directly from your GitHub repository.
+
+## Contribute
+
+If you have an issue or found a bug, please raise a GitHub issue [here](https://github.com/eduhoratiu/hello_random_color/issues). Pull requests are also welcome.
+
+## License
+
+Hello Random Color is licensed under the [MIT license](LICENSE).
