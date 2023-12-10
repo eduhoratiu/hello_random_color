@@ -1,5 +1,12 @@
 # Hello Random Color
 
+[![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-%2302569B)](https://flutter.dev/)
+![Platform](https://img.shields.io/badge/platforms-web-lightgrey)
+[![Build Flutter Web](https://github.com/eduhoratiu/hello_random_color/actions/workflows/build-flutter-web.yml/badge.svg)](https://github.com/eduhoratiu/hello_random_color/actions/workflows/build-flutter-web.yml)
+[![Github Code Size](https://img.shields.io/github/languages/code-size/eduhoratiu/hello_random_color)](https://github.com/eduhoratiu/hello_random_color)
+[![GitHub Commits](https://badgen.net/github/commits/eduhoratiu/hello_random_color/main)](https://github.com/eduhoratiu/hello_random_color/commits/main)
+[![GitHub License](https://img.shields.io/github/license/eduhoratiu/hello_random_color)](https://github.com/eduhoratiu/hello_random_color/blob/main/LICENSE)
+
 This is a simple, yet effective [Flutter](https://flutter.dev/) application designed for educational purposes, particularly suitable for beginners in Flutter development. This app demonstrates the core principles of Flutter and Dart programming in a straightforward and interactive way.
 
 The app's functionality revolves around displaying a randomly generated color on the screen. Users can shuffle to a new color, showcasing the dynamic nature of Flutter's state management. The code is well-commented and structured, making it easy for beginners to follow and understand key concepts such as widget creation, state management, navigation, and basic UI elements in Flutter.
