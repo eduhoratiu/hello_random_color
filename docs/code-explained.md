@@ -1,6 +1,10 @@
+# Flutter Code Explained
+
+This document serves as a comprehensive guide to understanding the Flutter source code of the Hello Random Color app. It's designed to walk beginners through each section of the app's codebase, explaining the functionalities and Flutter concepts used. Starting with the `main.dart` file, the document breaks down complex Flutter elements into digestible explanations, making it a valuable resource for those new to Flutter or mobile app development. This document aims to provide insights into practical Flutter application development, enhancing the learning experience for beginners.
+
 ## main.dart
 
-In the `main.dart` file of the app, each line and Flutter component plays a crucial role in setting up the application. This file is fundamental for understanding how to set up and launch a Flutter application, introducing key concepts like widgets, theming, and app structure.
+In the [main.dart](../lib/main.dart) file, each line and Flutter component plays a crucial role in setting up the application. This file is fundamental for understanding how to set up and launch a Flutter application, introducing key concepts like widgets, theming, and app structure.
 
 Let's take a look at the parts of the `main.dart` file and see what they do.
 
